@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1686145803 source:c:\users\vverh\onedrive\desktop\proect poo(1)\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<bits/stdc++.h>
+	"declaration.h"
+	"member.h"
+	"angajati.h"
+	"count.h"
+	<fstream>
+
+1686092201 source:c:\users\vverh\onedrive\desktop\proect poo(1)\src\declaration.cpp
+	"declaration.h"
+
+1686128625 c:\users\vverh\onedrive\desktop\proect poo(1)\include\declaration.h
+	<string>
+
+1686129947 source:c:\users\vverh\onedrive\desktop\proect poo(1)\src\member.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<bits/stdc++.h>
+	"member.h"
+	"declaration.h"
+	"count.h"
+	<fstream>
+
+1686129104 c:\users\vverh\onedrive\desktop\proect poo(1)\include\member.h
+	"declaration.h"
+	"count.h"
+
+1686092833 source:c:\users\vverh\onedrive\desktop\proect poo(1)\src\count.cpp
+	"count.h"
+
+1686092388 c:\users\vverh\onedrive\desktop\proect poo(1)\include\count.h
+
+1686130038 c:\users\vverh\onedrive\desktop\proect poo(1)\include\angajati.h
+	"declaration.h"
+	"count.h"
+
+1686130051 source:c:\users\vverh\onedrive\desktop\proect poo(1)\src\angajati.cpp
+	"angajati.h"
+	<iostream>
+	<chrono>
+	<thread>
+	<bits/stdc++.h>
+	"member.h"
+	"declaration.h"
+	"count.h"
+	<fstream>
+
